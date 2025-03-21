@@ -30,8 +30,8 @@ npm install @react-native-async-storage/async-storage
 npm run start
 ```
 📌 Features To Be Added
-✅ Push Notifications for Missed Doses
-✅ Caregiver Alerts via SMS
-✅ Cloud Backup with Firebase
-✅ AI Chatbot with Symptom-Based Suggestions
-✅ Enhanced UI for Medication Tracking
+- ✅ Push Notifications for Missed Doses
+- ✅ Caregiver Alerts via SMS
+- ✅ Cloud Backup with Firebase
+- ✅ AI Chatbot with Symptom-Based Suggestions
+- ✅ Enhanced UI for Medication Tracking
